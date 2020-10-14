@@ -1,5 +1,5 @@
 # chabot_project
-(Unsuccessful) attempt at building a generative chatbot
+(Unsuccessful) attempt at building a generative chatbot using Kernas Tensorflow.
 
 A first attempt at building a generative chatbot using dialogue from the Cornell Movie Dialogs Corpus. The code is largely adapated from Codecademy's "Build a Chatbot using 
 Python" course. 
